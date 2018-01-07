@@ -2,6 +2,20 @@
 Repo for the submission of the "Getting and Cleaning Data" course project (Johns Hopkins University).
 Run the run_analysis.R code
 
+# Flow of analysis
+
+0. Install package dplyr
+1. Clean workspace
+2. Set working directory
+3. Download and unzip data
+4. Load data into data tables
+5. Set Column names
+6. Make training and test data tables with the same structure then create a single table containing both data-sets
+7. Create a logical vector that provides column names containing: subject, activity_id, mean(), std(). Then only keep those columns of  the dataset
+8. Rename columns with descriptive variable names
+9. Set activity name (instead of id)
+10. Make tidy data-set
+
 # Information provided by Coursera
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
