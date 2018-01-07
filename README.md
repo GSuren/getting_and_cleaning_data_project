@@ -6,7 +6,7 @@ Run the run_analysis.R code
 
 0. Install package dplyr
 1. Clean workspace
-2. Set working directory
+2. Set working directory --> This is important to customize to own situation
 3. Download and unzip data
 4. Load data into data tables
 5. Set Column names
