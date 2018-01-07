@@ -1,5 +1,6 @@
-# getting_and_cleaning_data_project
-Repo for the submission of the "Getting and Cleaning Data" course project (Johns Hopkins University)
+# Getting_and_cleaning_data_project
+Repo for the submission of the "Getting and Cleaning Data" course project (Johns Hopkins University).
+Run the run_analysis.R code
 
 # Information provided by Coursera
 
